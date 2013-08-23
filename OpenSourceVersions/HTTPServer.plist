@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>OpenSourceImportDate</key>
+		<string>2012-08-20</string>
+		<key>OpenSourceLicense</key>
+		<string>BSD</string>
+		<key>OpenSourceLicenseFile</key>
+		<string>CocoaHTTPServer.txt</string>
+		<key>OpenSourceModifications</key>
+		<array>
+			<string>sendfile support</string>
+		</array>
+		<key>OpenSourceProject</key>
+		<string>CocoaHTTPServer</string>
+		<key>OpenSourceVersion</key>
+		<string>2.3</string>
+		<key>OpenSourceWebsiteURL</key>
+		<string>https://github.com/robbiehanson/CocoaHTTPServer</string>
+	</dict>
+	<dict>
+		<key>OpenSourceImportDate</key>
+		<string>2012-08-29</string>
+		<key>OpenSourceLicense</key>
+		<string>MIT</string>
+		<key>OpenSourceLicenseFile</key>
+		<string>RoutingHTTPServer.txt</string>
+		<key>OpenSourceModifications</key>
+		<array/>
+		<key>OpenSourceProject</key>
+		<string>RoutingHTTPServer</string>
+		<key>OpenSourceVersion</key>
+		<string>1.0.0</string>
+		<key>OpenSourceWebsiteURL</key>
+		<string>https://github.com/mattstevens/RoutingHTTPServer</string>
+	</dict>
+	<dict>
+		<key>OpenSourceImportDate</key>
+		<string>2012-08-30</string>
+		<key>OpenSourceLicense</key>
+		<string>Apache</string>
+		<key>OpenSourceLicenseFile</key>
+		<string>ProtocolBuffers.txt</string>
+		<key>OpenSourceModifications</key>
+		<array/>
+		<key>OpenSourceProject</key>
+		<string>protobuf-objc</string>
+		<key>OpenSourceVersion</key>
+		<string>696b7b61cdd4e8d77c55ace98b3119194fa04b7f</string>
+		<key>OpenSourceWebsiteURL</key>
+		<string>https://github.com/booyah/protobuf-objc</string>
+	</dict>
+</array>
+</plist>
